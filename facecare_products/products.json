@@ -1,10 +1,10 @@
 {
   "id": 1,
   "images": [
-    "https://raw.githubusercontent.com/<username>/<repo>/main/my_products/images/ps4_console_white_1.png",
-    "https://raw.githubusercontent.com/<username>/<repo>/main/my_products/images/ps4_console_white_2.png",
-    "https://raw.githubusercontent.com/<username>/<repo>/main/my_products/images/ps4_console_white_3.png",
-    "https://raw.githubusercontent.com/<username>/<repo>/main/my_products/images/ps4_console_white_4.png"
+    "https://raw.githubusercontent.com/YhChiam/facecare-assets/9b172101f16eac82a555dd12672dae5f9f4246d2/facecare_products/images/ps4_console_white_1.png",
+    "https://raw.githubusercontent.com/YhChiam/facecare-assets/9b172101f16eac82a555dd12672dae5f9f4246d2/facecare_products/images/ps4_console_white_2.png",
+    "https://raw.githubusercontent.com/YhChiam/facecare-assets/9b172101f16eac82a555dd12672dae5f9f4246d2/facecare_products/images/ps4_console_white_3.png",
+    "https://raw.githubusercontent.com/YhChiam/facecare-assets/9b172101f16eac82a555dd12672dae5f9f4246d2/facecare_products/images/ps4_console_white_4.png"
   ],
   "colors": [
     "0xFFF6625E",
