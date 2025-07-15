@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "images": [
+    "https://raw.githubusercontent.com/<username>/<repo>/main/my_products/images/ps4_console_white_1.png",
+    "https://raw.githubusercontent.com/<username>/<repo>/main/my_products/images/ps4_console_white_2.png",
+    "https://raw.githubusercontent.com/<username>/<repo>/main/my_products/images/ps4_console_white_3.png",
+    "https://raw.githubusercontent.com/<username>/<repo>/main/my_products/images/ps4_console_white_4.png"
+  ],
+  "colors": [
+    "0xFFF6625E",
+    "0xFF836DB8",
+    "0xFFDECB9C",
+    "0xFFFFFFFF"
+  ],
+  "title": "Wireless Controller for PS4™",
+  "price": 64.99,
+  "description": "Wireless Controller for PS4™ gives you what you want in your gaming from over precision control your games to sharing …",
+  "rating": 4.8,
+  "isFavourite": true,
+  "isPopular": true
+}
